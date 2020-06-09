@@ -62,3 +62,4 @@ In order to succesfully clone this repository, please insure to have the followi
 - NYC OpenData, “DOHMH DOHMH New York City Restaurant Inspection Results https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j
 - Python Timer Functions: Three Ways to Monitor Your Code https://realpython.com/python-timer/#creating-a-python-timer-class
 - How to Use the Yelp’s Fusion API https://medium.com/@morgannegagne/how-to-use-the-yelp-fusion-api-70e62f96b0ab
+- Levenshtein Distance and Text Similarity in Python https://stackabuse.com/levenshtein-distance-and-text-similarity-in-python/
