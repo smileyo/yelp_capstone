@@ -29,8 +29,14 @@ In order to succesfully clone this repository, please insure to have the followi
 * [Seaborn](https://pypi.org/project/seaborn/)
 * [Matplotlib](https://pypi.org/project/matplotlib/)
 
+## Contents
 
+In this repo, you will find the following notebooks in the `code` folder:
 
+1. 01_data_processing.ipynb
+2. 02_EDA_and_Modeling.ipynb
+
+You will also find three python scripts that were used to query the Yelp Fusion API in order to gather the relevant restaurant data.
 
 ## Data Dictionary
 
